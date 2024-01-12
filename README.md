@@ -40,10 +40,3 @@ I am a Full Stack Developer && Cybersecurity Enthusiast 👨‍💻🔐 from �
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   ....&& More!
 </div>
-
----
-
-### 📊 My Stats 📊
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachadavidson&theme=ocean-dark&background=000000)](https://git.io/streak-stats)
-
----
