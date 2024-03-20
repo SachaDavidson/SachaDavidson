@@ -13,7 +13,7 @@
 
 ### ℹ About Me ℹ
 
-I am a Full Stack Developer && Cybersecurity Enthusiast 👨‍💻🔐 from 🍁Canada🍁
+I am a Full Stack Developer && Cybersecurity Enjoyer 👨‍💻🔐 from 🍁Canada🍁
 - I am working as a Peer Tutor helping students succeed in their Information Technology studies 📚🎓
 - Exploring Cybersecurity, Cloud Computing, && Artificial Intelligence 🔥
 - In my free time, I research new ideas 💡 && watch cartoons 🎬
