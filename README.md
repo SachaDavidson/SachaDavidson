@@ -33,7 +33,6 @@
 - I also post videos on **[le YouTube](https://www.youtube.com/@smddev)** &&
 - Oh, I also post some of my A.I. songs on **[le SoundCloud](https://soundcloud.com/smddev)** &&
 - I cloned my own voice, which is pending review to be made available for other ElevenLabs users (will link once/if approved)
-- In my free time, I research new ideas for products/services 💡 && watch cartoons 🎬
 - Connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Sacha_Davidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachamdavidson/)
   - Don't have LinkedIn? Don't worry about it!
   - You can email me instead **<sacha@smddev.ca>**
