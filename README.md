@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4MXo3ejM2dDg4ZjlvZjk5Zml1NXdhMXlqaGh0NHdzOHFyNW13diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Ed2K1z5LUm8wUYAue/source.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4MXo3ejM2dDg4ZjlvZjk5Zml1NXdhMXlqaGh0NHdzOHFyNW13diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Ed2K1z5LUm8wUYAue/source.gif" 
+    width="100" alt="A Neat Little GIF I Made"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sachamdavidson/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,18 +11,37 @@
   </h1>
 </div>
 
+## 👀 Currently Seeking Opportunities Related To 👀 
+
+- Web Development, Mobile Development, Game Development, Software Development
+- UI/UX Design, Graphics, Animation
+- Project Management, Consulting, Solutions Architecture
+- Cybersecurity, Artificial Intelligence, Cloud Development
 
 ### ℹ About Me ℹ
 
-I am a Full Stack Developer && Cybersecurity Enjoyer 👨‍💻🔐 from 🍁Canada🍁
-- I am working as a Peer Tutor helping students succeed in their Information Technology studies 📚🎓
-- Exploring Cybersecurity, Cloud Computing, && Artificial Intelligence 🔥
-- In my free time, I research new ideas 💡 && watch cartoons 🎬
+- 👨‍💻 Full Stack Web and Mobile Developer &&
+- 🤖 Artificial Intelligence Nerd &&
+- 🎭 Animation Fan &&
+- 🔐 Cybersecurity Enjoyer &&
+- 🍁 Grade A Canadian Human &&
+- 🎓 Educated in Web & Mobile Application Development at New Brunswick Community College 2022-2024
+
+### 📢 Shameless Self-Promotion 📢 
+
+- I don't wanna brag, but I made this **[neat Portfolio](https://smddev.ca)** &&
+- I also post videos on **[le YouTube](https://www.youtube.com/@smddev)** &&
+- Oh, I also post some of my A.I. songs on **[le SoundCloud](https://soundcloud.com/smddev)** &&
+- I cloned my own voice, which is pending review to be made available for other ElevenLabs users (will link once/if approved)
+- In my free time, I research new ideas for products/services 💡 && watch cartoons 🎬
 - Connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Sacha_Davidson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachamdavidson/)
+  - Don't have LinkedIn? Don't worry about it!
+  - You can email me instead **<sacha@smddev.ca>**
   
 ---
 
 ### 💻Languages and Tools 💻
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
