@@ -11,12 +11,7 @@
   </h1>
 </div>
 
-## 👀 Currently Seeking Opportunities Related To 👀 
-
-- Web Development, Mobile Development, Game Development, Software Development
-- UI/UX Design, Graphics, Animation
-- Project Management, Consulting, Solutions Architecture
-- Cybersecurity, Artificial Intelligence, Cloud Development
+## 👀 Currently Seeking Job Opportunities 👀 
 
 ### ℹ About Me ℹ
 
