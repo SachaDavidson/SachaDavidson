@@ -23,8 +23,6 @@
 - 👨‍💻 Full Stack Web and Mobile Developer &&
 - 🤖 Artificial Intelligence Nerd &&
 - 🎭 Animation Fan &&
-- 🔐 Cybersecurity Enjoyer &&
-- 🍁 Grade A Canadian Human &&
 - 🎓 Educated in Web & Mobile Application Development at New Brunswick Community College 2022-2024
 
 ### 📢 Shameless Self-Promotion 📢 
@@ -32,7 +30,6 @@
 - I don't wanna brag, but I made this **[neat Portfolio](https://smddev.ca)** &&
 - I also post videos on **[le YouTubes](https://www.youtube.com/@smddev)** &&
 - Oh, I also release beautiful A.I. generated music which can be found on:
-  - **[SoundCloud](https://soundcloud.com/smddev)** &&
   - **[Spotify](https://open.spotify.com/artist/15Z19h0utPvycrBtKMbnzc?si=ZR3M_ntLQYut8ht6uwV89A)**
 - Writer, director, executive producer and creator of the AI-generated short film
   - ***[The Solution (2024)](https://www.youtube.com/watch?v=YtfoMppe7iU)***
