@@ -11,8 +11,6 @@
   </h1>
 </div>
 
-## 👀 Currently Seeking Job Opportunities 👀 
-
 ### ℹ About Me ℹ
 
 - 👨‍💻 Full Stack Web and Mobile Developer &&
