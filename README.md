@@ -22,10 +22,6 @@
 
 - I don't wanna brag, but I made this **[neat Portfolio](https://smddev.ca)** &&
 - I also post videos on **[le YouTubes](https://www.youtube.com/@smddev)** &&
-- Oh, I also release beautiful A.I. generated music which can be found on:
-  - **[Spotify](https://open.spotify.com/artist/15Z19h0utPvycrBtKMbnzc?si=ZR3M_ntLQYut8ht6uwV89A)**
-- Writer, director, executive producer and creator of the AI-generated short film
-  - ***[The Solution (2024)](https://www.youtube.com/watch?v=YtfoMppe7iU)***
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/smddev/)
   - Don't have LinkedIn? Don't worry about it!
   - You can email me instead **<sacha@smddev.ca>**
