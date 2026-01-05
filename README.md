@@ -11,21 +11,6 @@
   </h1>
 </div>
 
-### ℹ About Me ℹ
-
-- 👨‍💻 Full Stack Web and Mobile Developer &&
-- 🤖 Artificial Intelligence Nerd &&
-- 🎭 Animation Fan &&
-- 🎓 Educated in Web & Mobile Application Development at New Brunswick Community College 2022-2024
-
-### 📢 Shameless Self-Promotion 📢 
-
-- I don't wanna brag, but I made this **[neat Portfolio](https://smddev.ca)** &&
-- I also post videos on **[le YouTubes](https://www.youtube.com/@smddev)** &&
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/smddev/)
-  - Don't have LinkedIn? Don't worry about it!
-  - You can email me instead **<sacha@smddev.ca>**
-  
 ---
 
 ### 💻Languages and Tools 💻
